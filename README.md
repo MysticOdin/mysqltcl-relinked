@@ -1,5 +1,7 @@
 # mysqltcl-relinked
-This is mysqltcl by xdobry relinked for windows with Tcl8.5, VS11, and mysql-connector-c-6.1.6-win32, this fixes the problem with This fixes the problem with Error message: "`Error in my_thread_global_end(): X threads didn’t exit`"
+This is mysqltcl by xdobry relinked for windows with Tcl8.5, VS11, and mysql-connector-c-6.1.6-win32.
+
+This fixes the problem with Error message: "`Error in my_thread_global_end(): X threads didn’t exit`"
 
 It took me a while to get it to work successfully so I'm just sharing with everyone.
 
